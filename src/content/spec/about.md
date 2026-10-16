@@ -1,9 +1,19 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于本站
 
-::github{repo="saicaca/fuwari"}
+这里是 **盘神AI** 的博客，用来记录资源整理心得、实用工具评测与值得收藏的干货文章。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## 我的其他站点
+
+- 🗂️ [盘神AI资源站](http://panshen.qd.je) —— 影视、软件、学习资料、AI 工具等分类资源导航
+- 🔗 [盘搜短链](http://pansou.qd.je) —— 把长链接变成好记的短链接，支持永久短链
+
+## 关于资源
+
+本站所有资源均来自互联网公开分享，仅供学习与个人研究使用，请于下载后 24 小时内删除；若有侵权请联系邮箱，我会第一时间删除。
+
+## 联系我
+
+- 邮箱：3013628741@qq.com
+- GitHub：[shunfeng01](https://github.com/shunfeng01)
+
+::github{repo="shunfeng01/panshen"}
